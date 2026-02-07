@@ -2,7 +2,7 @@
 
 1. Clone repository
    ```sh
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/RaymondLTJ/LnTMidProject_Raymond-Leroy-Tjen_2902614174
    cd nama-repo
    ```
 2. Install dependencies
